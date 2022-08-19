@@ -26,6 +26,8 @@ Aplicação de controle de tarefas no estilo **to-do-list**, que contém as segu
 - Remover uma tarefa da listagem
 - Mostrar o progresso de conclusão das tarefas
 
+Versão Web: [Todo List](https://github.com/italoalvesdev/todo-list)
+
 ## 🔧 Tecnologias
 
 - React Native
@@ -33,6 +35,11 @@ Aplicação de controle de tarefas no estilo **to-do-list**, que contém as segu
 - Styled Components
 - [react-native-svg](https://docs.expo.dev/versions/latest/sdk/svg/)
 - [react-native-responsive-fontsize](https://github.com/heyman333/react-native-responsive-fontSize)
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/1XfZQGSWk4HWjvwcjd2nOP/ToDo-List/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+
 
 ## :octocat: Instalação
 
